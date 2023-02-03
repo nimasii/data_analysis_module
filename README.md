@@ -30,7 +30,6 @@ Libraires:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Pandas Official Website](http://url.link.goes.here](https://pandas.pydata.org/docs/getting_started/overview.html)
 * [Altair's Offical Website](http://url.link.goes.here](https://altair-viz.github.io/getting_started/overview.html)
 
