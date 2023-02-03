@@ -1,34 +1,41 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a data analysis project that I created to explore statistics from the 2022 FIFA World Cup. I created my program in Visual Studio Code in a Jupyter notebook. It is written in python. The purpose of this program is to use the statistics from the games played in the World Cup to answer questions about the World Cup.
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+You can find the data that I used for this analysis here: (https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset?resource=download)
 
-{Describe your purpose for writing this software to analyze the data.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]((https://youtu.be/D0BZ2bqI9xg))
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+1. How does defensive performance affect offensive productivity?
+* There is not a strong enough trend to say for certain whether or not better defensive statistics affect the number of offensive chances created.
+* There was a slight coorelation that suggested better defense produced less offensive chances.
+* Spain was the most effective team at converting defensive stops to offensive chances.
+
+2. Which group was the hardest to escape?
+* I found that Group E had was the best statistically. They had both the highest defensive and offensive statistics in the tournament.
+* Groups A and F were to two worst statistical groups in the tournamnet. Having some of the lowest offensive and defensive statistics.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Languages:
+* Jupyter
+* Python
 
-{Describe the programming language that you used and any libraries.}
+Libraires:
+* Pandas
+* Altair
+* Numpy
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Pandas Official Website](http://url.link.goes.here](https://pandas.pydata.org/docs/getting_started/overview.html)
+* [Altair's Offical Website](http://url.link.goes.here](https://altair-viz.github.io/getting_started/overview.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I want to answer more questions about other areas of the data.
+* I want to be able to compare statistics from the World Cup to statistics from other major tournaments.
+* I want to create more in depth and effective visualizations to answer my questions.
