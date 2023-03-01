@@ -4,7 +4,7 @@ This is a data analysis project that I created to explore statistics from the 20
 
 You can find the data that I used for this analysis here: (https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset?resource=download)
 
-[Software Demo Video]((https://youtu.be/D0BZ2bqI9xg))
+[Software Demo Video]((https://www.youtube.com/watch?v=D0BZ2bqI9xg))
 
 # Data Analysis Results
 
